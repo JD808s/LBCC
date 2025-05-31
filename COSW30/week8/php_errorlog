@@ -1,0 +1,15 @@
+[16-May-2025 17:21:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'yourusername'@'localhost' (using password: YES) in /home/customer/www/lyra.webdevlearning.org/public_html/COSW30/week8/dbconnection.php:19
+Stack trace:
+#0 /home/customer/www/lyra.webdevlearning.org/public_html/COSW30/week8/dbconnection.php(19): mysqli_connect('127.0.0.1', 'yourusername', Object(SensitiveParameterValue), 'yourdatabasenam...', 3306)
+#1 {main}
+  thrown in /home/customer/www/lyra.webdevlearning.org/public_html/COSW30/week8/dbconnection.php on line 19
+[16-May-2025 17:22:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'yourusername'@'localhost' (using password: YES) in /home/customer/www/lyra.webdevlearning.org/public_html/COSW30/week8/dbconnection.php:19
+Stack trace:
+#0 /home/customer/www/lyra.webdevlearning.org/public_html/COSW30/week8/dbconnection.php(19): mysqli_connect('127.0.0.1', 'yourusername', Object(SensitiveParameterValue), 'yourdatabasenam...', 3306)
+#1 {main}
+  thrown in /home/customer/www/lyra.webdevlearning.org/public_html/COSW30/week8/dbconnection.php on line 19
+[16-May-2025 17:22:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'yourusername'@'localhost' (using password: YES) in /home/customer/www/lyra.webdevlearning.org/public_html/COSW30/week8/dbconnection.php:19
+Stack trace:
+#0 /home/customer/www/lyra.webdevlearning.org/public_html/COSW30/week8/dbconnection.php(19): mysqli_connect('127.0.0.1', 'yourusername', Object(SensitiveParameterValue), 'yourdatabasenam...', 3306)
+#1 {main}
+  thrown in /home/customer/www/lyra.webdevlearning.org/public_html/COSW30/week8/dbconnection.php on line 19
